@@ -1,0 +1,3 @@
+/home/casperw/CPP/week04/examples/practice/p2/build/CMakeFiles/lab3_practice.dir
+/home/casperw/CPP/week04/examples/practice/p2/build/CMakeFiles/edit_cache.dir
+/home/casperw/CPP/week04/examples/practice/p2/build/CMakeFiles/rebuild_cache.dir

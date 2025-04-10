@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab3_practice.dir/src/fib.cpp.o CMakeFiles/lab3_practice.dir/src/lab3_practice.cpp.o CMakeFiles/lab3_practice.dir/src/print_hello.cpp.o -o bin/lab3_practice 
